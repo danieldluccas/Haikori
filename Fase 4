@@ -1,0 +1,2 @@
+Implemente o comando 'S,' que faz seu programa procurar a saída do quebra-cabeças automaticamente sem intervenção do usuário. 
+Ao final da execução, o programa deve apresentar o caminho de saída desde a configuração inicial até a resolução final do quebra-cabeças.
