@@ -1,0 +1,9 @@
+Coloque a configuração inicial numa árvore (não binária) e acrescente o comando s ao seu programa. Ao receber este comando, seu programa deve criar um nível na árvore 
+com outras configurações resultantes de possíveis movimentos da árvore anterior. Seu programa deve imprimir na tela essas configurações numeradas de 1 a n (o número 
+máximo de possíveis movimentos). No próximo movimento, o usuário deve poder escolher um número entre 1 e n (das configurações apresentadas) e seu programa deve gerar 
+novas configurações a partir da configuração escolhida, de novo apresentando as possíveis configurações numeradas, repetindo o processo de escolha de número e geração 
+de novas configurações a partir da configuração escolhida.
+
+
+A cada geração não pode ser apresentada uma configuração que já esteja armazenada em algum nó da árvore. A cada nova configuração gerada seu programa também deve testar
+se atingiu uma posição de saída do labirinto, finalizando o jogo.
